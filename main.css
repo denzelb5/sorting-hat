@@ -1,3 +1,22 @@
 body {
-    background-color: brown;
+    background-color: cadetblue;
+}
+div.jumbotron {
+    margin: 2em;
+}
+
+div.jumbotron.jumbotron-fluid {
+   margin: 2em;
+   border: 3px solid #555967;
+   height: 8em;
+   padding-top: 1em;
+
+}
+
+h1.display-4 {
+   font-size: 25px;
+}
+
+.card {
+    display: inline-block;
 }
