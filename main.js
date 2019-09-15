@@ -43,6 +43,7 @@ const createEntryForm = (event) => {
         nameEntry.value = ' ';
     })
     
+    
     nameEntry.addEventListener('click', (event) => {
         event.stopPropagation();
     })
