@@ -7,11 +7,13 @@ HTML, CSS, Javascript, Bootstrap
 
 
 ##
-![screenshot 1](./screenshots/sorting-hat1.png)
+![screenshot 1](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat1.png?raw=true)
 
-![screenshot 2](./screenshots/sorting-hat2.png)
+![screenshot 2](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat2.png?raw=true)
 
-![screenshot 3](./screenshots/sorting-hat3.png)
+![screenshot 3](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat3.png?raw=true)
+
+![screenshot 4](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat4.png?raw=true)
 
 
 ## How to run
