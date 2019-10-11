@@ -7,13 +7,17 @@ HTML, CSS, Javascript, Bootstrap
 
 
 ##
+### Press the button to start the program.
 ![screenshot 1](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat1.png?raw=true)
 
+### Enter a name:
 ![screenshot 2](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat2.png?raw=true)
+
+### The program assigns the name to a hogwart house.
 
 ![screenshot 3](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat3.png?raw=true)
 
-![screenshot 4](https://github.com/denzelb5/sorting-hat/blob/master/screenshots/sorting-hat4.png?raw=true)
+
 
 
 ## How to run
